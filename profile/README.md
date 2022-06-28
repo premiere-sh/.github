@@ -16,7 +16,7 @@ up a branch on per-feature basis.
 5. Include any unit-tests, e2e or integration tests if applicable.
 6. [Create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
 
-By contributing you agree to share your code under this [MIT license](https://github.com/premiere-sh/.github/blob/master/LICENSE).
+By contributing you agree to share your code under the [MIT license](https://github.com/premiere-sh/.github/blob/master/LICENSE).
 
 ## Maintainers
 
