@@ -18,6 +18,7 @@ create a branch `socials-sign-up`.
  Always have unittests for the feature implemented and aim for 100% coverage.
 - ✅ Run the linter/formatter to ensure there are no static/styling errors.
 - ✅ Include any unit-tests, e2e or integration tests if applicable.
+- ✅ Include a screenshot of the component if applicable.
 
 By contributing you agree to share your code under the [MIT license](https://github.com/premiere-sh/.github/blob/master/LICENSE).
 
