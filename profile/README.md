@@ -7,7 +7,7 @@ A crypto web-app enabling gamers to participate in tournaments and receive
 
 All submissions, including submissions by project members, require review. For
 this purpose, GitHub pull requests will be used. Fork or clone the repo and set
-up a branch on per-feature basis. Once ready, submit a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
+up a branch on per-feature basis. Once ready, submit a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork).
 
 For example, in order to add a feature of sign up with other socials, please
 create a branch `socials-sign-up`.
